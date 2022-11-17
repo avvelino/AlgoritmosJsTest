@@ -1,3 +1,5 @@
 # AlgoritmosJsTest
-Para executar o test 
-$ npm test
+Para executar o test: <br>
+npm install
+
+npm test
